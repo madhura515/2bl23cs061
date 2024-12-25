@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hey
-=======
-hiii
->>>>>>> parent of 7a5b12a (yesRevert "hii")
